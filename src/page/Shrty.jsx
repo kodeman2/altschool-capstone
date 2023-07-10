@@ -8,6 +8,8 @@ function Shrty() {
       <Main />
       <Hero />
 
+      <p className="mb-[-60px] flex justify-center">Kodeman 2023 </p>
+
     </div>
   )
 }
